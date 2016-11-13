@@ -1,0 +1,14 @@
+*.pyc
+*.aux
+*.bbl
+*.bib
+*.log
+*.odt
+*.docx
+*.csv
+*.tex
+data
+summary
+.ipynb_checkpoints
+unprocessed_data/
+*.npy
