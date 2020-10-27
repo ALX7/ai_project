@@ -6,7 +6,7 @@ boto==2.38.0
 certifi==2016.8.2
 chardet==2.3.0
 configparser==3.5.0
-cryptography==1.2.3
+cryptography==3.2
 cycler==0.9.0
 dask==0.11.1
 decorator==4.0.10
