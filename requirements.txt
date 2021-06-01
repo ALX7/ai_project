@@ -76,7 +76,7 @@ terminado==0.6
 toolz==0.8.0
 tornado==4.4.1
 traitlets==4.2.2
-urllib3==1.13.1
+urllib3==1.26.5
 wcwidth==0.1.7
 widgetsnbextension==1.2.6
 wrapt==1.10.8
