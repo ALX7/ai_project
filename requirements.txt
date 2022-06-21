@@ -40,7 +40,7 @@ nbformat==4.0.1
 ndg-httpsclient==0.4.0
 networkx==1.11
 notebook==4.2.2
-numpy==1.11.1
+numpy==1.22.0
 opencv-python==3.1.0.3
 pandas==0.18.1
 pathlib2==2.1.0
